@@ -1,0 +1,8 @@
+{
+  "name": "Muslim Namaz",
+  "description": "An all-in-one Islamic app featuring prayer times, Qibla direction, Quran, digital Tasbeeh, Zakat calculator, and daily Duas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
